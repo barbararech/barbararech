@@ -53,8 +53,8 @@ Here are some ideas to get you started:
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=barbararech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160Em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbararech&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-   <img height="160Em" src="https://github-readme-stats.vercel.app/api/wakatime?username=barbararech&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+<!--    <img height="160Em" src="https://github-readme-stats.vercel.app/api/wakatime?username=barbararech&layout=compact&langs_count=16&theme=dracula"/>
+</div> -->
 
 <h2 align="left">Contact me</h2>
 <div align="left">
