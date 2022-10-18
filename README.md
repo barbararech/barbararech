@@ -40,6 +40,8 @@ Here are some ideas to get you started:
   ![Jest Badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) 
   ![Postgres Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Linux Badge](https://camo.githubusercontent.com/e24b22d4246ea1e567f53943c22367f39044ecc869c76c41e077fc4e3f716373/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d3445414132353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d7768697465)
   ![Git Badge](https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
   ![VsCode Badge](https://camo.githubusercontent.com/0f40d5ce3282ca82ccfec8cdcd494cadcaedab52e92c4b578f0499dbddfa353b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56535f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465)
