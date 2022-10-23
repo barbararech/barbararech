@@ -15,19 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there! I'm Bárbara :octocat:</h1>
+<h1 align="center">Olá! Eu sou a Bárbara :octocat:</h1>
 
-<!--  ## About me: -->
+<!--  ## ASobre mim: -->
 
  <img align="right" alt="GIF" src="https://i.ibb.co/vksBB5S/output-onlinegiftools.gif" width="190" height="auto"/>
 
-- :woman: Pronouns: She/Her
-- :books: **Web Development Student** at [Driven Education](https://www.driven.com.br/)
-- :mortar_board: **Mechanical Engineer** with strong educational and hands-on experience in **medical devices**
-- :art: Fun fact: I love doing watercolor paintings but they always come out terrible
+- :woman: Pronomes: Ela/Dela
+- :books: **Desenvolvedora Full Stack** formada pela [Driven Education](https://www.driven.com.br/)
+- :mortar_board: **Engenheira Mecânica** formada pela [UFSC](https://ufsc.br/) com experiência em dispositivos médicos
+- :art: Curiosidade: Eu amo pintar aquarela, mas nunca sai como eu gostaria
 
 
-<h2 align="left">Languages and Tools</h2>
+<h2 align="left">Linguagens e Ferramentas</h2>
 <div align="center">
   
   ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
  
 
-<h2 align="left">My Stats</h2>
+<h2 align="left">Minhas Estatísticas</h2>
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=barbararech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160Em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbararech&layout=compact&langs_count=16&theme=dracula"/>
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <!--    <img height="160Em" src="https://github-readme-stats.vercel.app/api/wakatime?username=barbararech&layout=compact&langs_count=16&theme=dracula"/>
 </div> -->
 
-<h2 align="left">Contact me</h2>
+<h2 align="left">Contato</h2>
 <div align="left">
   
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rech.brb@gmail.com)
