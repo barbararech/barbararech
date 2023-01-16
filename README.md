@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Olá! Eu sou a Bárbara :octocat:</h1>
 
-<!--  ## ASobre mim: -->
+<!--  ## Sobre mim: -->
 
  <img align="right" alt="GIF" src="https://i.ibb.co/vksBB5S/output-onlinegiftools.gif" width="190" height="auto"/>
 
@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 
 <h2 align="left">Minhas Estatísticas</h2>
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=barbararech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160Em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbararech&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=barbararech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160Em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=barbararech&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <!--    <img height="160Em" src="https://github-readme-stats.vercel.app/api/wakatime?username=barbararech&layout=compact&langs_count=16&theme=dracula"/>
 </div> -->
