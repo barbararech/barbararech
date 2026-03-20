@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - :woman: Pronomes: Ela/Dela
 - :books: **Desenvolvedora Full Stack** formada pela [Driven Education](https://www.driven.com.br/)
 - :mortar_board: **Engenheira Mecânica** formada pela [UFSC](https://ufsc.br/) com experiência em dispositivos médicos
-- :art: Curiosidade: Eu amo pintar aquarela, mas nunca sai como eu gostaria
 
 
 <h2 align="left">Linguagens e Ferramentas</h2>
